@@ -1,0 +1,18 @@
+C:\Users\llsss\Desktop\ejemplos-ado-net-main\dominio\bin\Debug\dominio.dll
+C:\Users\llsss\Desktop\ejemplos-ado-net-main\dominio\bin\Debug\dominio.pdb
+C:\Users\llsss\Desktop\ejemplos-ado-net-main\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\llsss\Desktop\ejemplos-ado-net-main\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\llsss\Desktop\ejemplos-ado-net-main\dominio\obj\Debug\dominio.dll
+C:\Users\llsss\Desktop\ejemplos-ado-net-main\dominio\obj\Debug\dominio.pdb
+C:\Users\canelo\Desktop\Trabajo\COSAS IMPORTANTES LUIS\Curso C# Nivel 2\Programa Pokedex\dominio\bin\Debug\dominio.dll
+C:\Users\canelo\Desktop\Trabajo\COSAS IMPORTANTES LUIS\Curso C# Nivel 2\Programa Pokedex\dominio\bin\Debug\dominio.pdb
+C:\Users\canelo\Desktop\Trabajo\COSAS IMPORTANTES LUIS\Curso C# Nivel 2\Programa Pokedex\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\canelo\Desktop\Trabajo\COSAS IMPORTANTES LUIS\Curso C# Nivel 2\Programa Pokedex\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\canelo\Desktop\Trabajo\COSAS IMPORTANTES LUIS\Curso C# Nivel 2\Programa Pokedex\dominio\obj\Debug\dominio.dll
+C:\Users\canelo\Desktop\Trabajo\COSAS IMPORTANTES LUIS\Curso C# Nivel 2\Programa Pokedex\dominio\obj\Debug\dominio.pdb
+C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\dominio\bin\Debug\dominio.dll
+C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\dominio\bin\Debug\dominio.pdb
+C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\dominio\obj\Debug\dominio.dll
+C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\dominio\obj\Debug\dominio.pdb
