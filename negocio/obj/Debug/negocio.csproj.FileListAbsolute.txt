@@ -25,3 +25,12 @@ C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\negocio\obj\D
 C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\negocio\obj\Debug\negocio.csproj.Up2Date
 C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\negocio\obj\Debug\negocio.dll
 C:\Users\canelo\Desktop\Sistemas\Curso C# Nivel 2\Programa Pokedex\negocio\obj\Debug\negocio.pdb
+C:\Users\canelo\Desktop\pokedex-web\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\canelo\Desktop\pokedex-web\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\canelo\Desktop\pokedex-web\negocio\obj\Debug\negocio.dll
+C:\Users\canelo\Desktop\pokedex-web\negocio\obj\Debug\negocio.pdb
+C:\Users\canelo\Desktop\pokedex-web\negocio\bin\Debug\negocio.dll
+C:\Users\canelo\Desktop\pokedex-web\negocio\bin\Debug\negocio.pdb
+C:\Users\canelo\Desktop\pokedex-web\negocio\bin\Debug\dominio.dll
+C:\Users\canelo\Desktop\pokedex-web\negocio\bin\Debug\dominio.pdb
+C:\Users\canelo\Desktop\pokedex-web\negocio\obj\Debug\negocio.csproj.Up2Date
