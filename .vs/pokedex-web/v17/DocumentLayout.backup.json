@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\canelo\\Desktop\\pokedex-web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\pokemonslista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\pokemonslista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|c:\\users\\canelo\\desktop\\pokedex-web\\pokedex-web\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|c:\\users\\canelo\\desktop\\pokedex-web\\pokedex-web\\detallepokemon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\detallepokemon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|c:\\users\\canelo\\desktop\\pokedex-web\\pokedex-web\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\pokemonslista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\pokemonslista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{974D539C-098C-4E52-89FB-7B433F91DC0C}|negocio\\negocio.csproj|c:\\users\\canelo\\desktop\\pokedex-web\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|c:\\users\\canelo\\desktop\\pokedex-web\\pokedex-web\\pokemonslista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\pokemonslista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|c:\\users\\canelo\\desktop\\pokedex-web\\pokedex-web\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{28AC7026-99B4-4D68-91E5-E37B3E4D6E17}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974D539C-098C-4E52-89FB-7B433F91DC0C}|negocio\\negocio.csproj|C:\\Users\\canelo\\Desktop\\pokedex-web\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{974D539C-098C-4E52-89FB-7B433F91DC0C}|negocio\\negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +38,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetallePokemon.aspx",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\DetallePokemon.aspx",
+              "RelativeDocumentMoniker": "pokedex-web\\DetallePokemon.aspx",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\DetallePokemon.aspx",
+              "RelativeToolTip": "pokedex-web\\DetallePokemon.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-30T01:53:27.269Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\default.aspx.cs",
+              "RelativeDocumentMoniker": "pokedex-web\\default.aspx.cs",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\default.aspx.cs",
+              "RelativeToolTip": "pokedex-web\\default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:35:31.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\default.aspx",
+              "RelativeDocumentMoniker": "pokedex-web\\default.aspx",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\default.aspx",
+              "RelativeToolTip": "pokedex-web\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-30T00:30:15.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Master.Master",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\Master.Master",
+              "RelativeDocumentMoniker": "pokedex-web\\Master.Master",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\Master.Master",
+              "RelativeToolTip": "pokedex-web\\Master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-29T23:23:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\pokedex-web\\negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "negocio\\AccesoDatos.cs",
@@ -34,12 +110,11 @@
               "RelativeToolTip": "negocio\\AccesoDatos.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAQwCIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T18:35:57.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T18:35:57.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PokemonsLista.aspx.cs",
               "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\PokemonsLista.aspx.cs",
               "RelativeDocumentMoniker": "pokedex-web\\PokemonsLista.aspx.cs",
@@ -52,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PokemonsLista.aspx",
               "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\pokedex-web\\pokedex-web\\PokemonsLista.aspx",
               "RelativeDocumentMoniker": "pokedex-web\\PokemonsLista.aspx",

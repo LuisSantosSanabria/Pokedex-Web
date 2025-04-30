@@ -70,6 +70,7 @@
     <Content Include="Web.config" />
     <Content Include="default.aspx" />
     <Content Include="PokemonsLista.aspx" />
+    <Content Include="DetallePokemon.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -93,6 +94,13 @@
     </Compile>
     <Compile Include="PokemonsLista.aspx.designer.cs">
       <DependentUpon>PokemonsLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetallePokemon.aspx.cs">
+      <DependentUpon>DetallePokemon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetallePokemon.aspx.designer.cs">
+      <DependentUpon>DetallePokemon.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
