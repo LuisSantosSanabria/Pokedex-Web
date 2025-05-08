@@ -13,8 +13,20 @@ namespace pokedex_web
         protected void Page_Load(object sender, EventArgs e)
         {
             PokemonNegocio negocio = new PokemonNegocio();
-            dgcPokemons.DataSource = negocio.listarConSp();
-            dgcPokemons.DataBind();
+            dgvPokemons.DataSource = negocio.listarConSp();
+            dgvPokemons.DataBind();
+        }
+
+        protected void dgvPokemons_PageIndexChanged(object sender, GridViewPageEventArgs e)
+        {
+            // con los datos que le cargamos al page load cambia y bildea de nuevo los datos
+            dgvPokemons.PageIndex = e.NewPageIndex;
+            dgvPokemons.DataBind();
+        }
+        protected void dgvPokemons_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string id = dgvPokemons.SelectedDataKey.Value.ToString();
+            Response.Redirect("FormularioPokemon.aspx?id=" + id);
         }
     }
 }

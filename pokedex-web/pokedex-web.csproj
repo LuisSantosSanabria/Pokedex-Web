@@ -71,6 +71,7 @@
     <Content Include="default.aspx" />
     <Content Include="PokemonsLista.aspx" />
     <Content Include="DetallePokemon.aspx" />
+    <Content Include="FormularioPokemon.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -101,6 +102,13 @@
     </Compile>
     <Compile Include="DetallePokemon.aspx.designer.cs">
       <DependentUpon>DetallePokemon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioPokemon.aspx.cs">
+      <DependentUpon>FormularioPokemon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormularioPokemon.aspx.designer.cs">
+      <DependentUpon>FormularioPokemon.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
