@@ -66,6 +66,41 @@ namespace negocio
 
         }
 
+        public List<Elemento> tipos()
+        {
+            List<Elemento> listaTipo = new List<Elemento>();
+            SqlConnection conexion = new SqlConnection();
+            SqlCommand comando = new SqlCommand();
+            SqlDataReader lector;
+
+            try
+            {
+                conexion.ConnectionString = "server=.\\SQLEXPRESS; database=POKEDEX_DB; integrated security=true";
+                comando.CommandType = System.Data.CommandType.Text;
+                // Consulta para seleccionar los distintos tipos de la tabla ELEMENTOS
+                comando.CommandText = "SELECT Id, Descripcion FROM ELEMENTOS";
+                comando.Connection = conexion;
+
+                conexion.Open();
+                lector = comando.ExecuteReader();
+
+                while (lector.Read())
+                {
+                    Elemento aux = new Elemento();
+                    aux.Id = (int)lector["Id"];
+                    aux.Descripcion = (string)lector["Descripcion"];
+                    listaTipo.Add(aux);
+                }
+
+                conexion.Close();
+                return listaTipo;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public List<Pokemon> listarConSp()
         {
             List<Pokemon> lista = new List<Pokemon>();

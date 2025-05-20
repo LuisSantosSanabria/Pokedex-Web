@@ -72,6 +72,8 @@
     <Content Include="PokemonsLista.aspx" />
     <Content Include="DetallePokemon.aspx" />
     <Content Include="FormularioPokemon.aspx" />
+    <Content Include="ddList.aspx" />
+    <Content Include="ddListEnlazado.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -109,6 +111,20 @@
     </Compile>
     <Compile Include="FormularioPokemon.aspx.designer.cs">
       <DependentUpon>FormularioPokemon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ddList.aspx.cs">
+      <DependentUpon>ddList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ddList.aspx.designer.cs">
+      <DependentUpon>ddList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ddListEnlazado.aspx.cs">
+      <DependentUpon>ddListEnlazado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ddListEnlazado.aspx.designer.cs">
+      <DependentUpon>ddListEnlazado.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
