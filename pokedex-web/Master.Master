@@ -32,6 +32,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="ddListEnlazado.aspx">DropDowList Enlazado</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="UpdatePanel.aspx">UpdatePanel</a>
+                        </li>
                     </ul>
                 </div>
             </div>
