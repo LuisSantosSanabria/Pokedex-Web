@@ -18,20 +18,36 @@
             <div class="mb-3">
                 <label for="txtNumero" class="form-label">Número: </label>
                 <asp:TextBox runat="server" ID="txtNumero" CssClass="form-control" />
-            </div>
-            <div class="mb-3">
-                <label for="txtDescripcion" class="form-label">Descripcion: </label>
-                <asp:TextBox runat="server" ID="TextBox1" CssClass="form-control" />
-            </div>
+            </div
             <div class="mb-3">
                 <label for="txtTipo" class="form-label">Tipo: </label>
+                <asp:DropDownList runat="server" ID="ddlTipos" CssClass="form-select" />
+            </div>
+            <div class="mb-3">
+                <label for="txtTipo" class="form-label">Debilidad: </label>
                 <asp:DropDownList runat="server" ID="ddlDebilidad" CssClass="form-select" />
             </div>
             <div class="mb-3">
                 <asp:Button Text="Aceptar" runat="server" ID="btnAceptar" CssClass="btn btn-primary" OnClick="btnAceptar_Click" />
                 <a href="PokemonsLista.aspx">Cancelar</a>
             </div>
-
+        </div>
+        <div class="col-6">
+            <div class="mb-3">
+                <label for="txtDescripcion" class="form-label">Descripcion</label>
+                <asp:TextBox runat="server" TextMode="MultiLine" ID="txtDescripcion" CssClass="form-label" />
+            </div>
+            <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                <ContentTemplate>
+                    <div class="mb-3">
+                        <label for="txtUrlImagen" class="form-label">Url Imagen</label>
+                        <asp:TextBox runat="server" ID="txtImagenUrl" CssClass="form-control"
+                            AutoPostBack="true" OnTextChanged="txtImagenUrl_TextChanged" />
+                    </div>
+                    <asp:Image ImageUrl="https://img.freepik.com/vector-premium/icono-marco-fotos-foto-vacia-blanco-vector-sobre-fondo-transparente-aislado-eps-10_399089-1290.jpg?w=900"
+                        runat="server" ID="imgPokemon" Width="60%" />
+                </ContentTemplate>
+            </asp:UpdatePanel>
         </div>
     </div>
 
